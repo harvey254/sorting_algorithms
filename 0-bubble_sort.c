@@ -47,7 +47,7 @@ void bubble_sort(int *array, size_t size)
 				flag = 1;
 			}
 		}
-		if (!flag)
-			break;
+	if (!flag)
+		break;
 	}
 }
